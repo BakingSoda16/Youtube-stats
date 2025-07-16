@@ -1,3 +1,11 @@
+#Original
+.env
+__pycache__/
+*.pyc
+*.json
+client_secret.json
+token.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
