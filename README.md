@@ -18,4 +18,5 @@ pip install -r requirements.txt
 python youtube_video_stats.py
 
 > Note: You can find your channel ID at https://www.youtube.com/account_advanced
+
 > Note: You can make an API Key at https://console.cloud.google.com/
